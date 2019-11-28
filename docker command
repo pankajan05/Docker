@@ -1,0 +1,4 @@
+docker ps  >> show the running containers
+touch Dockerfile >> to create dockerfile
+
+
